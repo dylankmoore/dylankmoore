@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dylan Moore!
 - 👀 I’m interested in learning how to code & become a web developer.
-- 🌱 I’m currently learning javascript!
+- 🌱 I’m currently learning front end web development!
 - 💞️ I’m looking to collaborate on anything that will help me learn & meeting other people doing the same thing!
 - 📫 How to reach me --> dylankmoore@gmail.com
 
