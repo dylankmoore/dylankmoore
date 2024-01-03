@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dylan Moore!
 - I'm interested in coding, web design, & becoming a full stack web developer.
-- I’m currently learning front end web development!
+- I’m currently learning back end web development!
 - I’m looking to collaborate on anything that will help me learn & grow, and meet others with the same goals & interests!
 - 📫 How to reach me --> dylankmoore@gmail.com & [my linkedin!](http://www.linkedin.com/in/dylankmoore)
 
