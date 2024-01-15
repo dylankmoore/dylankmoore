@@ -11,7 +11,7 @@
         Console.WriteLine($"I'm currently in a full stack web development program at {bootcamp} 👩🏻‍💻.");
         Console.WriteLine($"Right now I'm learning {subjects}.");
         Console.WriteLine($"Some of my interests include {interests}.");
-        Console.WriteLine($"It's nice to meet you! Feel free to reach out to me via 📧 {email} or my linkedin!");
+        Console.WriteLine($"It's nice to meet you! Feel free to reach out to me via 📧 {email}.");
 
         Console.ReadLine();
     }
