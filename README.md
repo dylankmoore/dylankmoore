@@ -4,7 +4,7 @@ void Bio()
     string name = "Dylan Moore";
     string bootcamp = "Nashville Software School";
     string subjects = "C# and .NET";
-    string interests = "visual design, coding, photography, dancing";
+    string interests = "visual design, coding, photography, and film.";
     string email = "dylankmoore@gmail.com";
 
     Console.WriteLine($"Hi there! 👋 My name is {name}.");
