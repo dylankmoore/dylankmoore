@@ -1,7 +1,8 @@
-## Hi, I'm Dylan! ![keanu-thumbs-up1-ezgif com-resize](https://github.com/dylankmoore/dylankmoore/assets/134669892/cd99b66b-0a04-4242-a088-561aa66beae3)
+## Hi, I'm Dylan! ![keanu](https://github.com/dylankmoore/dylankmoore/assets/134669892/573b289e-fd8c-4048-8e80-2a661cc838ae)
+
+
 
 ```
-
 void Bio()
 {
     string name = "Dylan Moore";
