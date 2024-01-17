@@ -1,4 +1,4 @@
-##Hi, I'm Dylan! ![keanu-thumbs-up (1)](https://github.com/dylankmoore/dylankmoore/assets/134669892/b0c70bb5-dc73-4603-b606-996480c41e36)
+##Hi, I'm Dylan! ![keanu-thumbs-up (1)](https://github.com/dylankmoore/dylankmoore/assets/134669892/3f4585f6-9f10-4b75-9b92-b6dd656703c0)
 
 ```
 
