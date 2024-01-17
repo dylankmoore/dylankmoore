@@ -1,4 +1,4 @@
-##Hi, I'm Dylan! :keanu-thumbs-up:
+##Hi, I'm Dylan! ![keanu-thumbs-up1-ezgif com-resize](https://github.com/dylankmoore/dylankmoore/assets/134669892/cd99b66b-0a04-4242-a088-561aa66beae3)
 
 ```
 
