@@ -1,4 +1,7 @@
+##Hi, I'm Dylan! ![keanu-thumbs-up (1)](https://github.com/dylankmoore/dylankmoore/assets/134669892/b0c70bb5-dc73-4603-b606-996480c41e36)
+
 ```
+
 void Bio()
 {
     string name = "Dylan Moore";
