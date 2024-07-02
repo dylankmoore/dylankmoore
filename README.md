@@ -7,13 +7,13 @@ void Bio()
 {
     string name = "Dylan Moore";
     string bootcamp = "Nashville Software School";
-    string subjects = "C# and .NET";
+    string languages = "C#/.NET & React/Next.Js";
     string interests = "visual design, coding, photography, and film";
     string email = "dylankmoore@gmail.com";
 
     Console.WriteLine($"Hi there! 👋 My name is {name}.");
-    Console.WriteLine($"I'm currently in a full stack web development program at {bootcamp} 👩🏻‍💻.");
-    Console.WriteLine($"Right now I'm learning {subjects}.");
+    Console.WriteLine($"I've recently graduated from a full stack web development program at {bootcamp} 👩🏻‍💻. I'm currently looking for job opportunities and to network with others in the tech community.");
+    Console.WriteLine($"I've spent the last year learning and mastering {languages}.");
     Console.WriteLine($"Some of my interests include {interests}.");
     Console.WriteLine($"It's nice to meet you! Feel free to reach out to me via 📧 {email}.");
 
