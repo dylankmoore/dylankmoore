@@ -13,7 +13,7 @@ void Bio()
 
     Console.WriteLine($"Hi there! 👋 My name is {name}.");
     Console.WriteLine($"I've recently graduated from a full stack web development program at {bootcamp} 👩🏻‍💻.
-    I'm passionate about building visually pleasing, easy to use applications.");
+    I'm passionate about building visually pleasing, user-friendly applications.");
 
     Console.WriteLine($"I've spent the last year learning and honing my skills in {languages}.
     I'm currently looking for job opportunities and to network with others in the tech community.");
