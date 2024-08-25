@@ -12,17 +12,18 @@ void Bio()
     string email = "dylankmoore@gmail.com";
 
     Console.WriteLine($"Hi there! 👋 My name is {name}.");
-    Console.WriteLine($"I've recently graduated from a full stack web development program at {bootcamp} 👩🏻‍💻.
-    I'm passionate about building visually pleasing, user-friendly applications.");
+    Console.WriteLine($"I've recently graduated from a full stack web development program at {bootcamp} 👩🏻‍💻. " +
+                      $"I'm passionate about building visually pleasing, user-friendly applications.");
 
-    Console.WriteLine($"I've spent the last year learning and honing my skills in {languages}.
-    I'm currently looking for job opportunities and to network with others in the tech community.");
+    Console.WriteLine($"I've spent the last year learning and honing my skills in {languages}. " +
+                      $"I'm currently looking for job opportunities and to network with others in the tech community.");
 
     Console.WriteLine($"Some of my interests include {interests}.");
     Console.WriteLine($"It's nice to meet you! Feel free to reach out to me via 📧 {email}.");
 
     Console.ReadLine();
 }
+
 
 ```
 
