@@ -1,7 +1,7 @@
 ## Hi, I'm Dylan! 👋
 <div align="center"><br>
 <font size="5">  <span style="font-size:20px;">
-I'm a full-stack software developer based in Nashville, Tennessee. My journey into tech began with an early passion for design, HTML & CSS. After years of working in the hospitality industry & craving a career change, I enrolled at Nashville Software School last year and recently graduated from their full stack web developent program with a newfound love for web development and tech. With a strong background in customer service, I bring excellent communication, problem-solving, and attention to detail to every project I work on. I'm currently looking for my first role in tech, as well as any opportunities to meet or collaborate with other developers as I continue to build on my knowledge and expand my technical skillset.
+I'm a full-stack software developer based in Nashville, Tennessee. My journey into tech began with an early passion for design, HTML & CSS. After years of working in the hospitality industry & craving a career change, I enrolled at Nashville Software School last year and recently graduated from their full stack web developent program with a newfound love for web development and tech. With a strong background in customer service, I bring excellent communication, problem-solving, and attention to detail to every project I work on. I'm currently looking for my first role in tech, as well as any opportunities to meet or collaborate with other developers & clients as I continue to build on my knowledge and expand my technical skillset.
 
 </font></span>
 </div><br>
