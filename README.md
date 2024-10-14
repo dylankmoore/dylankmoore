@@ -5,7 +5,7 @@ I'm a full-stack software developer based in Nashville, Tennessee. My journey in
 </font></span>
 </div><br>
 
-## My Current Tech Stack
+## My Current Tech Stack 👩🏻‍💻
 <div align="center">
     
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
