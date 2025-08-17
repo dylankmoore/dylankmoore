@@ -1,5 +1,6 @@
 ## Hi, I'm Dylan! 👋
-
+<div align="center"> full stack software developer and designer currently looking for work opportunities!
+</div>
 ## My Current Tech Stack 👩🏻‍💻
 <div align="center">
     
