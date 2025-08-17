@@ -1,10 +1,4 @@
 ## Hi, I'm Dylan! 👋
-<div align=""><br>
-<font size="5">  <span style="font-size:20px;">
-I'm a full stack software developer based in Nashville, Tennessee. My journey into tech began with an early passion for design, HTML & CSS. I recently graduated from Nashville Software School last year with a certificate in full stack web developent program with a newfound love for web development and tech. I'm currently looking for work opportunities and to connect with other developers!
-
-</font></span>
-</div><br>
 
 ## My Current Tech Stack 👩🏻‍💻
 <div align="center">
