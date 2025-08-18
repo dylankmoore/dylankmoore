@@ -1,3 +1,6 @@
+<font size="8"> full stack software developer with a passion for design.<br>
+looking for work opportunities & to collab with other developers!<br>
+
 ## My Current Tech Stack 👩🏻‍💻
 <div align="center">
     
